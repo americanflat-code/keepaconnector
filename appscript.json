@@ -1,0 +1,12 @@
+{
+  
+  "dataStudio": {
+    "name": "Keepa Connector",
+    "company": "None",
+    "logoUrl": "https://developer.spotify.com/assets/branding-guidelines/icon1@2x.png",
+    "addonUrl": "https://github.com/americanflat-code/keepaconnector",
+    "supportUrl": "https://github.com/americanflat-code/keepaconnector",
+    "description": "This connector can be used pull data from keepa"
+  }
+
+}
